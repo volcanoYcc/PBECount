@@ -8,8 +8,7 @@ This repository is the official implementation of our paper: [PBECount: Prompt-B
 (3). Our [pretrained model weights](https://temp).
 
 2. Then, extract the pretrained model weights in the 'PBECount' folder, and put the images in the FSC147 dataset in the 'FSC147_384_V2' folder, make sure the paths on your own device looks like follows:
-<details>
-<summary>click to show more</summary>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FSC147_384_V2  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──images_384_VarV2  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──images_384_VarV2_probmap  
@@ -30,7 +29,7 @@ This repository is the official implementation of our paper: [PBECount: Prompt-B
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──model34.py  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──train_eval.py  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└──train_utils.py  
-</details>
+
 3. Run 'make_dataset_probmap.py' in the 'FSC147_384_V2' folder to generate ground truth probmaps in the 'FSC147_384_V2/images_384_VarV2_probmap' folder.
 
 ## Evaluation
