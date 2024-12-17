@@ -9,14 +9,17 @@ To setup our project on your own device, you need to download all the following 
 
 Then, extract the pretrained model weights in the 'PBECount' folder, and put the images in the FSC147 dataset in the 'FSC147_384_V2' folder, make sure the paths on your own device looks like follows:
 
-FSC147_384_V2  
+<details>
+<summary>FSC147_384_V2</summary>
 ├──images_384_VarV2  
 ├──images_384_VarV2_probmap  
 ├──annotation_FSC147_384.json  
 ├──ImageClasses_FSC147.txt  
 ├──make_dataset_probmap.py  
 └──Train_Test_Val_FSC_147.json  
-PBECount  
+</details>
+<details>
+<summary>PBECount</summary>
 ├──run  
 │&nbsp;&nbsp;&nbsp;&nbsp;├──model_paper  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├──best_similarity1.pth.tar  
@@ -29,4 +32,4 @@ PBECount
 ├──model34.py  
 ├──train_eval.py  
 └──train_utils.py  
-
+</details>
