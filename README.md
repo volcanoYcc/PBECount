@@ -11,22 +11,22 @@ Then, extract the pretrained model weights in the 'PBECount' folder, and put the
 
 FSC147_384_V2  
 ├──images_384_VarV2  
-    images_384_VarV2_probmap  
-    annotation_FSC147_384.json  
-    ImageClasses_FSC147.txt  
-    make_dataset_probmap.py  
-    Train_Test_Val_FSC_147.json  
+├──images_384_VarV2_probmap  
+├──annotation_FSC147_384.json  
+├──ImageClasses_FSC147.txt  
+├──make_dataset_probmap.py  
+└──Train_Test_Val_FSC_147.json  
 PBECount  
-    run  
-        model_paper  
-            best_similarity1.pth.tar  
-            best1.pth.tar  
-        train  
-    data_utils.py  
-    dataloader.py  
-    demo_ui.py  
-    model_init.py  
-    model34.py  
-    train_eval.py  
-    train_utils.py  
+├──run  
+│  ├──model_paper  
+│  │  ├──best_similarity1.pth.tar  
+│  │  └──best1.pth.tar  
+│  └──train  
+├──data_utils.py  
+├──dataloader.py  
+├──demo_ui.py  
+├──model_init.py  
+├──model34.py  
+├──train_eval.py  
+└──train_utils.py  
 
