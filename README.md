@@ -1,7 +1,7 @@
 # PBECount: Prompt-Before-Extract Paradigm for Class-Agnostic Counting
 This repository is the official implementation of our paper: [PBECount: Prompt-Before-Extract Paradigm for Class-Agnostic Counting](https://temp), which is accepted by AAAI2025.
 
-<img src="https://github.com/volcanoYcc/PBECount/raw/master/README_images/1.png" width="260px" />
+<img src="https://github.com/volcanoYcc/PBECount/raw/master/README_images/1.png" width="260px" /> <img src="https://github.com/volcanoYcc/PBECount/raw/master/README_images/2.png" width="260px" />
 
 ## Project setup
 1. To setup our project on your own device, you need to download all the following files:  
