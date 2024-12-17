@@ -5,7 +5,7 @@ This repository is the official implementation of our paper: [PBECount: Prompt-B
 1. To setup our project on your own device, you need to download all the following files:  
 (1). All the code in this repository, the 'PBECount' folder include the source code of our proposed PBECount method for CAC, and the 'FSC147_384_V2' folder include the code for ground truth data generation.  
 (2). The [FSC147 dataset](https://github.com/cvlab-stonybrook/LearningToCountEverything).  
-(3). Our [pretrained model weights](https://temp).
+(3). Our [pretrained model weights](https://pan.baidu.com/s/1mzpNd8hXpy6xrg0XBMYROg)(code:7mw5).
 
 2. Extract the pretrained model weights in the 'PBECount' folder, and put the images in the FSC147 dataset into the 'FSC147_384_V2' folder, make sure the paths on your own device looks like follows:
 
