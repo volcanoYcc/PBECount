@@ -33,9 +33,10 @@ This repository is the official implementation of our paper: [PBECount: Prompt-B
 3. Run 'make_dataset_probmap.py' in the 'FSC147_384_V2' folder to generate ground truth probmaps in the 'FSC147_384_V2/images_384_VarV2_probmap' folder.
 
 ## Quick Demo
+We provide a quick demo to check the detection performance of model weight file 'PBECount/run/model_paper/best_similarity1.pth.tar' with the best classification performence, which is obtained by change the 'crop_aug' parameter in 'PBECount/train_eval.py' to 'False' in training.
 1. Run 'PBECount/demo_ui.py'
 2. Select the target image.
-3. Draw exemplars on the target image, press the left mouse button to start drawing, release the left mouse button to finish drawing, press 'Enter' to detect and show the detect result.
+3. Draw exemplars on the target image, press the left mouse button to start draw, release the left mouse button to finish draw, press 'Enter' to detect and show the detect result.
 4. Press 'ESC' or click the close button of the window to stop.
 
 ## Evaluation
