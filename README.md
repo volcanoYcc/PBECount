@@ -7,7 +7,7 @@ This repository is the official implementation of our paper: [PBECount: Prompt-B
 (2). The [FSC147 dataset](https://github.com/cvlab-stonybrook/LearningToCountEverything).  
 (3). Our [pretrained model weights](https://temp).
 
-2. Extract the pretrained model weights in the 'PBECount' folder, and put the images in the FSC147 dataset in the 'FSC147_384_V2' folder, make sure the paths on your own device looks like follows:
+2. Extract the pretrained model weights in the 'PBECount' folder, and put the images in the FSC147 dataset into the 'FSC147_384_V2' folder, make sure the paths on your own device looks like follows:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FSC147_384_V2  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──images_384_VarV2  
