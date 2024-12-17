@@ -9,13 +9,13 @@ This repository is the official implementation of our paper: [PBECount: Prompt-B
 
 2. Then, extract the pretrained model weights in the 'PBECount' folder, and put the images in the FSC147 dataset in the 'FSC147_384_V2' folder, make sure the paths on your own device looks like follows:
 
-FSC147_384_V2  
-├──images_384_VarV2  
-├──images_384_VarV2_probmap  
-├──annotation_FSC147_384.json  
-├──ImageClasses_FSC147.txt  
-├──make_dataset_probmap.py  
-└──Train_Test_Val_FSC_147.json  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FSC147_384_V2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──images_384_VarV2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──images_384_VarV2_probmap  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──annotation_FSC147_384.json  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──ImageClasses_FSC147.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──make_dataset_probmap.py  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└──Train_Test_Val_FSC_147.json  
 PBECount  
 ├──run  
 │&nbsp;&nbsp;&nbsp;&nbsp;├──model_paper  
