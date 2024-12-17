@@ -18,10 +18,10 @@ FSC147_384_V2
 └──Train_Test_Val_FSC_147.json  
 PBECount  
 ├──run  
-│    ├──model_paper  
-│    │    ├──best_similarity1.pth.tar  
-│    │    └──best1.pth.tar  
-│    └──train  
+│  ├──model_paper  
+│  │  ├──best_similarity1.pth.tar  
+│  │  └──best1.pth.tar  
+│  └──train  
 ├──data_utils.py  
 ├──dataloader.py  
 ├──demo_ui.py  
