@@ -3,7 +3,7 @@ This repository is the official implementation of our paper: [PBECount: Prompt-B
 
 <img src="https://github.com/volcanoYcc/PBECount/raw/master/README_images/1.png" width="390px" /><img src="https://github.com/volcanoYcc/PBECount/raw/master/README_images/2.png" width="390px" />  
 <details>
-<summary>click to show detection results</summary>
+<summary>Click to show detection results</summary>
 <img src="https://github.com/volcanoYcc/PBECount/raw/master/README_images/3.png" width="750px" />
 </details>
 
