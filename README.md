@@ -32,6 +32,13 @@ This repository is the official implementation of our paper: [PBECount: Prompt-B
 
 3. Run 'make_dataset_probmap.py' in the 'FSC147_384_V2' folder to generate ground truth probmaps in the 'FSC147_384_V2/images_384_VarV2_probmap' folder.
 
-## Evaluation
+## Quick Demo
+1. Run 'PBECount/demo_ui.py'
+2. Select the target image.
+3. Draw exemplars on the target image, press the left mouse button to start drawing, release the left mouse button to finish drawing, press 'Enter' to detect and show the detect result.
+4. Press 'ESC' or click the close button of the window to stop.
 
+## Evaluation
+1. Change the 'config' parameter in 'PBECount/train_eval.py' to 'config_eval'.
+2. Run 'PBECount/train_eval.py' to test the model weight file 'PBECount/run/model_paper/best1.pth.tar' with the best counting performence.
 
