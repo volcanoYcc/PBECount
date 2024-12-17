@@ -46,5 +46,6 @@ We provide a quick demo to check the detection performance of model weight file 
 ## Training
 1. Change the 'config' parameter in 'PBECount/train_eval.py' to 'config_train_stage1'.
 2. Run 'PBECount/train_eval.py' to train the model for stage one.
-3. Change the 'config' parameter in 'PBECount/train_eval.py' to 'config_train_stage2', switch the 'pre_trained' parameter in'config_train_stage2' to the path to the model weight file with the best counting performance in stage one training process.
+3. Change the 'config' parameter in 'PBECount/train_eval.py' to 'config_train_stage2', switch the 'pre_trained' parameter in 'config_train_stage2' to the path to the model weight file with the best counting performance in stage one training process.
+4. Run 'PBECount/train_eval.py' to train the model for stage two.
 
