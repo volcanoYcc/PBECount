@@ -8,7 +8,11 @@ To setup our project on your own device, you need to download all the following 
 3. Our [pretrained model weights](https://temp).
 
 Then, extract the pretrained model weights in the 'PBECount' folder, and put the images in the FSC147 dataset in the 'FSC147_384_V2' folder, make sure the paths on your own device looks like follows:
+
 FSC147_384_V2
+
   images_384_VarV2
+  
   images_384_VarV2_probmap
+  
   annotation_FSC147_384.json
